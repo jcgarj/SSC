@@ -1,3 +1,7 @@
+students:
+    resource: "@StudentsBundle/Resources/config/routing.php"
+    prefix:   /
+
 about:
     resource: "@AboutBundle/Resources/config/routing.yml"
     prefix:   /
